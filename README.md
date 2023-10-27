@@ -13,5 +13,5 @@ Heute habe ich weiter am Modul 319 gearbeitet. Mehr spezifisch am Portfolio für
 
 ## Arbeitspakete für 27.10.2023
 
-- [ ] Ich will an mein Gruppenprojekt weiterarbeiten.
+- [ ] Ich will die Portfolio für M 319 fertig schreiben.
 - [ ] Falls es noch Zeit gibt mein vorheriges Code von grösseren Projekte effizienter wiederschreiben.
