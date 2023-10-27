@@ -15,3 +15,11 @@ Heute habe ich weiter am Modul 319 gearbeitet. Mehr spezifisch am Portfolio für
 
 - [ ] Ich will die Portfolio für M 319 fertig schreiben.
 - [ ] Falls es noch Zeit gibt mein vorheriges Code von grösseren Projekte effizienter wiederschreiben.
+
+Heute habe ich weiter am mein Portfolio für Modul 319 weitergeschaffen. Ich habe probiert Mein Portfolio sehr «User Friendly» zu gestalten, in dem ich Bilder und Tabellen benütze. Ich habe nicht nur am Gestaltung geschaffen, sondern auch am Lernziele. Zum Beispiel ich habe geschrieben wie ein Debugger funktioniert, was ist der Unterschied zwischen f10 und f11. Ich bin bereit mein Portfolio abzugeben.
+## Arbeitspakete für 27.10.2023
+- [ ] Ich will mein vorheriges Code von grösseren Projekte effizienter wiederschreiben.
+- [ ] Ich will lernen was Klassen sind und sie implimentieren.
+- [ ] Ich will am Modul 162 weiterarbeiten
+- [ ] Wenn alle sich verständigen, am Gruppenprojekt
+
