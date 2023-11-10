@@ -25,5 +25,10 @@ Heute habe ich weiter am mein Portfolio für Modul 319 weitergeschaffen. Ich hab
 
  Ich habe heute am Freitag Gruppenprojekt gearbeitet. Ich habe dann probiert mein Code von grösseren Projekten zu vereinfachen mit Funtionen über die nächsten paar Tage.
 
+ Auftrag für 10.11.2023
+- [ ] Ich will am Gruppenprojekt arbeiten.
+- [ ] Ich will am Modul 162 weiterarbeiten.
+- [ ] Ich will lernen wir man ein E-Mail prgrammiert und schickt. (Gehört zum Projekt)
+
 
      
