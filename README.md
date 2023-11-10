@@ -30,5 +30,7 @@ Heute habe ich weiter am mein Portfolio für Modul 319 weitergeschaffen. Ich hab
 - [ ] Ich will am Modul 162 weiterarbeiten.
 - [ ] Ich will lernen wir man ein E-Mail prgrammiert und schickt. (Gehört zum Projekt)
 
+Ich habe heute probiert an unseren Projekt weiterzuarbeiten. Ich habe vor allem mit Nando Rey gearbeitet. In unser Code haben wir die Terms und Conditions rein getan und Überprüfung das man es akzeptiert hat. Dann habe ich programmiert, das schlussendliche Produkt über die Email zu schicken. Das Emailschicken wurde programmiert. 
+
 
      
