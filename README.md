@@ -23,6 +23,7 @@ Heute habe ich weiter am mein Portfolio für Modul 319 weitergeschaffen. Ich hab
 - [ ] Ich will am Modul 162 weiterarbeiten.
 - [ ] Wenn alle sich verständigen, am Gruppenprojekt.
 
-      Ich habe heute am Freitag Gruppenprojekt gearbeitet.
-      Ich habe dann probiert mein Code von grösseren Projekten zu vereinfachen mit Funtionen über die nächsten paar Tage.
+ Ich habe heute am Freitag Gruppenprojekt gearbeitet. Ich habe dann probiert mein Code von grösseren Projekten zu vereinfachen mit Funtionen über die nächsten paar Tage.
 
+
+     
