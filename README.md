@@ -35,4 +35,10 @@ Ich habe heute probiert an unseren Projekt weiterzuarbeiten. Ich habe vor allem 
  Auftrag für 24.11.2023
 - [ ] Ich will am Gruppenprojekt arbeiten.
 - [ ] Ich will mein erstes 2d Game programmieren.
+Heute habe ich probiert Snake auf Windows Form Application zu programmieren. Ich wollte das mithilfe von eine Tabelle machen. Also der Tabelle ist der Spielfeld. Aber ich habe gemerkt es ist viel schwieriger als ich dachte, also habe ich probiert eine einfache program zu programmieren, wo ein Figur in irgendeine Direktion (in 2d) herumlaufen kann. Ich will mit das nächstes mal fortfahren.
+
+ Auftrag für 01.12.2023
+- [ ] Ich will mit einer tabelle in Winforms eine Program erstellen, wo ein Charakter in 2d herumlaufen kann.
+- [ ] Ich will mit diesem Logik dann Snake programmieren.
+- [ ] Ich will für den M162 Test lernen mit Nando
      
