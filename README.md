@@ -32,7 +32,7 @@ Heute habe ich weiter am mein Portfolio für Modul 319 weitergeschaffen. Ich hab
 
 Ich habe heute probiert an unseren Projekt weiterzuarbeiten. Ich habe vor allem mit Nando Rey gearbeitet. In unser Code haben wir die Terms und Conditions rein getan und Überprüfung das man es akzeptiert hat. Dann habe ich programmiert, das schlussendliche Produkt über die Email zu schicken. Das Emailschicken wurde programmiert. 
 
- Auftrag für 17.11.2023
+ Auftrag für 24.11.2023
 - [ ] Ich will am Gruppenprojekt arbeiten.
 - [ ] Ich will mein erstes 2d Game programmieren.
      
