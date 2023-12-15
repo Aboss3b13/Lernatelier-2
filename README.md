@@ -43,6 +43,8 @@ Heute habe ich probiert Snake auf Windows Form Application zu programmieren. Ich
 - [ ] Ich will für den M162 Test lernen mit Nando
 
 
- Auftrag für 15.12.2023
-- [ ] Ich will probieren ein Brettspiel zu programmieren
-     
+Auftrag für 15.12.2023
+- [ ] Ich  will probieren ein Memory Spiel zu programmieren.
+
+Auftrag für 22.12.2023
+- [ ] Ich  will probieren ein Memory Spiel zu programmieren im Spielbrett Form.
