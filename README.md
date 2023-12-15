@@ -46,5 +46,7 @@ Heute habe ich probiert Snake auf Windows Form Application zu programmieren. Ich
 Auftrag für 15.12.2023
 - [ ] Ich  will probieren ein Memory Spiel zu programmieren.
 
+Heute habe ich ein Memory game auf Console App programmiert. Der Programm gibt dir zufällige Nummern mit der Anzahl das du eingibst. Du kriegst Zehn Sekunden um die Zahlen zu erinnern. Die Zahlen Zeigen sich nach dieser Zeit nicht mehr an. Du musst jetzt die Zahlen in der richtigen Reihenfolge eingeben. Wenn der Zahl das du eingegeben hast im richtigen Position ist zeigt es sich Grün oder korrekt an, falls nicht zeigt es sich Rot oder Falsch an. Du kannst jetzt die ganze Prozesse wiederholen oder abschliessen. 
+
 Auftrag für 22.12.2023
 - [ ] Ich  will probieren ein Memory Spiel zu programmieren im Spielbrett Form.
