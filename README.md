@@ -41,4 +41,8 @@ Heute habe ich probiert Snake auf Windows Form Application zu programmieren. Ich
 - [ ] Ich will mit einer tabelle in Winforms eine Program erstellen, wo ein Charakter in 2d herumlaufen kann.
 - [ ] Ich will mit diesem Logik dann Snake programmieren.
 - [ ] Ich will für den M162 Test lernen mit Nando
+
+
+ Auftrag für 15.12.2023
+- [ ] Ich will probieren ein Brettspiel zu programmieren
      
