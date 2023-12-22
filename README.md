@@ -50,3 +50,12 @@ Heute habe ich ein Memory game auf Console App programmiert. Der Programm gibt d
 
 Auftrag für 22.12.2023
 - [ ] Ich  will probieren ein Memory Spiel zu programmieren im Spielbrett Form.
+
+
+Reflexion:
+
+In den vergangenen Monaten habe ich festgestellt, dass meine Lernfortschritte hinter den Erwartungen zurückgeblieben sind. Dies resultierte daraus, dass ich meine Ziele nicht präzise formuliert habe und gelegentlich Projekte abgebrochen oder verschoben habe, wenn ich nicht weiterkam. Statt mich auf theoretische Aspekte zu konzentrieren, habe ich mich vermehrt auf praktische Anwendungen konzentriert, insbesondere im Bereich der Programmierung.
+
+Ein bedeutendes abgeschlossenes Projekt, das aus meiner Inspiration durch das Mängelrüge-Programmierprojekt entstand, war die Entwicklung eines E-Mail-Interfaces. Während dieses Projekts erlernte ich, wie man E-Mails über das Web versendet, vertiefte mein Verständnis für das Simple Mail Transfer Protocol (SMTP) und implementierte zahlreiche Funktionen in einer Windows Form-Anwendung. Dazu gehören der E-Mail-Input, CC, Subject, Attachments und Body. Zusätzlich fügte ich dem Programm eine Löschfunktion hinzu sowie eine Versand-Historie, die die Informationen der gesendeten E-Mails als Textdatei speichert. Dabei wird die Textdatei aktualisiert, wenn sie bereits existiert.
+
+Als nächsten Schritt plane ich, in den kommenden Wochen meine Fähigkeiten in C# und SQL zu vertiefen. Besonders fokussiere ich mich auf SQL, da es Teil unseres Unterrichts ist. Mein Ziel ist es, meine Planungsfähigkeiten zu verbessern und gezielt in die theoretischen Aspekte von C# und SQL einzutauchen.
